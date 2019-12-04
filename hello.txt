@@ -1,3 +1,4 @@
 # git-repo
 # Hello
 Hello everybody
+Hello my friend
