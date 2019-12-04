@@ -1,6 +1,8 @@
-# git-repo
-# Hello
-Hello everybody
-Hello my friend
-How a you
+
+# git-repo;
+# Hello;
+Hello everybody;
+Hello my friend;
+How a you;
 Hi!
+
